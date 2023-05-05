@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "numeric": "cpp",
+        "stdexcept": "cpp",
+        "*.tcc": "cpp",
+        "ratio": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "random": "cpp"
+    }
+}
